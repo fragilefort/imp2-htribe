@@ -1,15 +1,4 @@
----
-title: "HyperTRIBE data analysis"
-subtitle: "Editing sites summary, code, and multiqc report"
-date: last-modified
-format: 
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
-    geometry:
-      - margin=1in
----
+# Editing sites summary, code, and multiqc report
 
 
 ### Pre-HTRIBE
